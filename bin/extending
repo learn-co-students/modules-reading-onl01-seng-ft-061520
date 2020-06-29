@@ -3,3 +3,7 @@ require_relative "../lib/dancer.rb"
 
 puts Kid.metadata
 puts Dancer.metadata
+
+
+# Run this code file with:      ruby bin/extending
+
